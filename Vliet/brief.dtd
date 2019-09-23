@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT attributes (#PCDATA | p)*>
+<!ELEMENT p (#PCDATA | title | naam | plaats )*>
+<!ELEMENT datum (#PCDATA) >
+<!ELEMENT plaats (#PCDATA)>
+<!ATTLIST plaats type ( adress | country | postalCode | city ) #IMPLIED>
+<!ELEMENT naam (#PCDATA)>
+<!ATTLIST naam type ( persoon | bedrijf ) #REQUIRED>
+<!ELEMENT title (#PCDATA) >
+<!ATTLIST title type  ( painting | novel | poem | ballet | play ) #REQUIRED>

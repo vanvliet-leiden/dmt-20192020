@@ -1,0 +1,6 @@
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title type  ( painting | novel | poem | ballet | play ) #REQUIRED>
+<!ELEMENT attributes (#PCDATA | p)*>
+<!ELEMENT p (title)*>
+<!ELEMENT genre (#PCDATA)>
+<!ATTLIST genre type (modernism | post-modernism) #REQUIRED >

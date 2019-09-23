@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes SYSTEM "brief.dtd">
+<plaats type="adress">27 Navarin Paris-France </plaats>
+<datum>April 21st 1877</datum>
+   <naam type="bedrijf">De Erven F. Bohn Broekdrukkers &#x27; Uitgevers  </naam>
+    <plaats type="city">Haarlem</plaats>
+    <p>Sir, long ere this I should have written to you concerning the dutch book 
+    -  which I began translating with great energy - I was struck with the language 
+    I was compelled to employ in order to render a true translation. 
+    A language which would be quite unsuited to english taste. 
+    In reading pats of the both in dutch &#x27; 
+    in <plaats type="country">Holland</plaats> &#x27; 
+    with perhaps by far somewhat accustomed to Dutch expressions 
+    I saw &#x27; felt only what I liked in the book.
+    To render it agreeable to the english taste it would at last become no translation.
+    I took the book to a Dutch literary person who thoroughly knows enlish 
+    &#x27; has resided in <plaats type="country">England</plaats>
+    for some years &#x27; she thought as I. </p>
+<p> <title type="novel">&#x27;&#x27;Hilda Hall&#x27;&#x27;</title> was finished last January 
+        - a tale - it will appear in May. 
+       If you would like to do business with the 
+        <naam type="bedrijf">&#x27;&#x27;Charing Cross&#x27;&#x27;</naam> Society, 
+    or become an agent for 
+    <title type="novel">&#x27;&#x27;Hilda Hall&#x27;&#x27;</title> 
+       please write to <naam type="persoon">Mr. Tomkins secretary</naam> 
+       <plaats type="adress">5 &#x27;riar st Broadway</plaats>. 
+    Either in english or in French- but Dutch is very little understood in England.
+    I mentioned your firm at the office. I believe a very great number of English books
+    are read in Holland &#x27; at present I do not think the 
+    <naam type="bedrijf">&#x27;&#x27;Charing Cross&#x27;&#x27;</naam> office
+    has an agent in <plaats type="country">Holland</plaats>.</p>
+    <p>I am Sir </p>
+    <p>Yours very respectfully</p>
+<p><naam type="persoon">Frances Martin</naam></p>
