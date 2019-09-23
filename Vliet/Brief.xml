@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes SYSTEM "brief.dtd">
+<brief>
 <plaats type="adress">27 Navarin Paris-France </plaats>
 <datum>April 21st 1877</datum>
    <naam type="bedrijf">De Erven F. Bohn Broekdrukkers &#x27; Uitgevers  </naam>
@@ -32,3 +33,4 @@
     <p>I am Sir </p>
     <p>Yours very respectfully</p>
 <p><naam type="persoon">Frances Martin</naam></p>
+</brief>
