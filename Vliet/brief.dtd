@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT attributes (#PCDATA | p)*>
+<!ELEMENT brief (#PCDATA | plaats | datum | naam | title)*>
 <!ELEMENT p (#PCDATA | title | naam | plaats )*>
 <!ELEMENT datum (#PCDATA) >
 <!ELEMENT plaats (#PCDATA)>
