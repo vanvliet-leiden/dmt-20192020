@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TEI xml:id="xxxxxxxxxx" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0">​
+    <!-- replace xxxxxxxxxx by file id -->​
+    <teiHeader>​
+        <fileDesc>​
+            <titleStmt>​
+                <title>​
+                    Letter from <persName>Frances Martin</persName> ​
+                    to <orgName>De Erven</orgName><persName>F. Bohn </persName>, 1877-04-2: A machine-readable transcription​
+                </title>​
+                <author>​
+                    Frances Martin​
+                    ​
+                </author>​
+                <principal>Prof. dr. Adriaan van der Weel</principal>​
+                <respStmt>​
+                    <resp>Creation of machine-readable version: </resp>​
+                    <name>​
+                        Feline van Vliet ​
+                    </name>​
+                </respStmt>​
+                <respStmt>​
+                    <resp>Conversion to TEI-conformant markup: </resp>​
+                    <name>​
+                        Feline van Vliet ​
+                      ​
+                    </name>​
+                </respStmt>​
+                <respStmt>​
+                    <resp>Editorial annotations: ​
+                       ​De Erven & Bohn was a publisher in Leiden. 
+                        Frances Martin was their british correspondent, who was also a contact of the Charing Cross Society.  
+                    </resp>​
+                    <name>​
+                        Feline van Vliet ​
+                        ​
+                    </name>​
+                </respStmt>​
+            </titleStmt>​
+            <extent>​
+                <!-- file size in kBytes -->​
+            </extent>​
+            <publicationStmt>​
+                <publisher>Leiden University</publisher>​
+                <pubPlace>Leiden, Netherlands</pubPlace>​
+                <address>​
+                    <addrLine>P.O. Box 9515</addrLine>​
+                    <addrLine>2300 RA Leiden</addrLine>​
+                </address>​
+                <idno> BOH C 73H 18770421​
+                    <!-- file ID -->​
+                </idno>​
+                <availability>​
+                    <p>Publicly accessible </p>​
+                    <p>​
+                        © Copyright 2019​
+                        , Leiden University​
+                    </p>​
+                </availability>​
+                <date>​
+                    2019​
+                </date>​
+            </publicationStmt>​
+            <sourceDesc>​
+                <biblFull>​
+                    <titleStmt>​
+                        <title>​
+                            Letter from <persName>Frances Martin</persName> ​
+                            to <orgName>De Erven</orgName><persName>F. Bohn </persName>, 1877-04-2​
+                         ​
+                        </title>​
+                        <author>​
+                            Francis Martin​
+                        </author>​
+                    </titleStmt>​
+                    <publicationStmt>​
+                        <publisher>Leiden University</publisher>​
+                        <idno type="callNo">​
+                            BOH C 73H ​
+                            <!-- library callnumber -->​
+                        </idno>​
+                    </publicationStmt>​
+                </biblFull>​
+            </sourceDesc>​
+        </fileDesc>​
+        <encodingDesc>​
+            <projectDesc>​
+                <p>​
+                    Prepared by students of the ​
+                    <!-- current_academic_year_expressed as 20..-20.. -->​
+                    <!-- name_of_course -->​
+                    course, Book and Digital Media Studies, Leiden University​
+                </p>​
+            </projectDesc>​
+            <editorialDecl>​
+                <p/>​
+            </editorialDecl>​
+        </encodingDesc>​
+        <profileDesc>​
+            <langUsage>​
+                <language ident="dut">English</language>​
+            </langUsage>​
+            <textClass>​
+                <keywords scheme="http://classificationweb.net">​
+                    <term>Correspondence</term>​
+                </keywords>​
+            </textClass>​
+            <textClass>​
+                <keywords scheme="http://www.bookstudies.leidenuniv.nl/">​
+                    <term>nonfiction</term>​
+                    <term>prose</term>​
+                    <term>male</term>​
+                </keywords>​
+            </textClass>​
+        </profileDesc>​
+    </teiHeader>​
+    <text>​
+        <front>​
+            <div type="summary">​
+                <p>​
+                    <!-- summary of contents -->​
+                </p>​
+            </div>​
+        </front>​
+        <body>​
+            <div type="letter">​
+                <opener>​
+                    <dateline>​
+                        <placeName> 27 Navarin Paris-France ​
+                            <!-- place name as in letter -->​
+                        </placeName>​
+                        <date when="1877-04-21">​
+                       ​
+                        </date>​
+                    </dateline>​
+                    <address>​
+                        <addrLine> <orgName>De Erven </orgName><persName>F. Bohn</persName> Broekdrukkers &#x27; Uitgevers​
+                            <!-- recipient's name, using <persName> or <orgName> element -->​
+                        </addrLine>​
+                        <addrLine>​
+                            <!-- recipient's address (add <addrLine>s as required) -->​
+                    <gap></gap> Haarlem​
+                        </addrLine>​
+                    </address>​
+                    <salute>​
+                        <!-- opening salutation -->​
+                        Sir,​
+                    </salute>​
+                </opener>​
+                <lb></lb>​
+                <p> <unclear reason="bad handwriting" cert="medium">Long ere </unclear> this I should have written to you concerning the dutch book ​
+                    ​
+                    -  which I began translating with great energy - I was struck with the language ​
+                    ​
+                    I was compelled to employ in order to render a true translation. ​
+                    ​
+                    A language which would be quite unsuited to english taste. ​
+                    ​
+                   In reading pats of the both in dutch &#x27; in Holland &#x27; ​
+                    ​
+                    with perhaps by far somewhat accustomed to Dutch expressions ​
+                    ​
+                    I saw &#x27; felt ​
+                    <!-- Nieuwe pagina -->​
+                    only what I liked in the book.​
+                    ​
+                    To render it agreeable to the english taste it would at last become no translation.​
+                    ​
+                    I took the book to a Dutch literary person who thoroughly knows enlish &#x27; has resided in England ​
+                    ​
+                    for some years &#x27; she thought as I. </p>​
+                <lb></lb>​
+                ​
+                <p><orgName>&#x27;&#x27;Hilda Hall&#x27;&#x27;</orgName>was finished last January ​
+                    ​
+                    - a tale - it will appear in May. ​
+                    ​
+                    If you would like to do business with the ​
+                    ​
+                    <orgName>&#x27;&#x27;Charing Cross&#x27;&#x27; Society</orgName> or become an agent for ​
+                    ​
+                    <orgName>&#x27;&#x27;Hilda Hall&#x27;&#x27;</orgName>​
+                    ​
+                    please write to <persName>Mr. Tomkins</persName> secretary ​
+                    ​
+                    <unclear reason="bad handwriting">5&#x27;riar st Broadway</unclear>. ​
+                    ​
+                    Either in english or in French- but Dutch is very little understood in England.​
+                    ​
+                    I mentioned your firm at the office. I believe a very ​
+                    <!-- Nieuwe pagina -->​
+                    great number of English books​
+                    ​
+                    are read in Holland &#x27; at present I do not think the ​
+                    ​
+                    <orgName>&#x27;&#x27;Charing Cross&#x27;&#x27;</orgName> office​
+                   ​
+                    has an agent in Holland.</p>​
+                <lb></lb>​
+                <closer>​
+                    <salute>​
+                        ​
+                        I am Sir ​
+                        ​
+                        Yours very respectfully​
+                        ​
+                    </salute>​
+                    <signed/>​
+                    Frances Martin​
+                    <seg>​
+                        <!-- post scriptum -->​
+                    </seg>​
+                </closer>​
+            </div>​
+        </body>​
+    </text>​
+</TEI>​
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
