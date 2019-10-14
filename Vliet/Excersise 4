@@ -1,0 +1,7 @@
+ENTITY: [book]
+ATTRIBUTES:
+[Attribute1] Author (PK) <-> book
+[Attribute2] Date <-> [Attribute6] Publisher 
+[Attribute3] Borrower name <->[Attribute4] Borrowed date 
+[Attribute5] Returned date <-> [Attribute3] Borrower name 
+[Attribute6] Publisher ->  [Attribute6] Publisher 
